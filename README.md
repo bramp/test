@@ -4,4 +4,4 @@
 ![Test Diagram](http://camo.githubapp.com/)
 ![Test Diagram](http://me.bramp.net/)
 ![Test Diagram](http://bramp.net/)
-![Test Diagram](http://bramp/camoloop)
+![Test Diagram](http://bramp.net/camoloop)
